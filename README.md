@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suleman Baloch</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="center">Hi 👋, I'm Suleman (Sully)</h1>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
 
 - 🔭 I’m currently working on **MERN Stack**
