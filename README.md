@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any potential CS Projects**
 
-- 👨‍💻 All of my projects are available at [[https://sulemanbaloch.com](https://portfo-sulemanbaloch2025.vercel.app)]
+- 👨‍💻 All of my projects are available at [[https://portfo-sulemanbaloch2025.vercel.app](https://portfo-sulemanbaloch2025.vercel.app)]
 
 - 📫 How to reach me **sulemanbaloch2024@gmail.com**
 
