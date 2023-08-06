@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Back-end development tools**
+- 🌱 I’m currently learning **Machine Learning Tools**
 
 - 👯 I’m looking to collaborate on **any potential CS Projects**
 
-- 👨‍💻 All of my projects are available at [https://sulemanbaloch.com](https://sulemanbaloch.com)
+- 👨‍💻 All of my projects are available at [[https://sulemanbaloch.com](https://portfo-sulemanbaloch2025.vercel.app)]
 
 - 📫 How to reach me **sulemanbaloch2024@gmail.com**
 
-- ⚡ Fun fact **I love photography**
+- ⚡ Fun fact **I love martial arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
