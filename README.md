@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://portfo-sulemanbaloch2025.vercel.app](https://portfo-sulemanbaloch2025.vercel.app)]
 
-- 📫 How to reach me **sulemanbaloch2024@gmail.com**
+- 📫 How to reach me **sulcancode@gmail.com**
 
 - ⚡ Fun fact **I love martial arts**
 
