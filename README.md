@@ -2,21 +2,21 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Software Engineering Tools**
 
-- 🌱 I’m currently learning **Machine Learning Tools**
+- 🌱 I’m have experience with **MERN Stack**
 
 - 👯 I’m looking to collaborate on **any potential CS Projects**
 
-- 👨‍💻 All of my projects are available at [[https://portfo-sulemanbaloch2025.vercel.app](https://portfo-sulemanbaloch2025.vercel.app)]
+- 👨‍💻 All of my projects are available at [[https://sulemanbaloch.vercel.app/](https://sulemanbaloch.vercel.app/)]
 
-- 📫 How to reach me **sulcancode@gmail.com**
+- 📫 How to reach me **sulemanbashirbaloch2024@gmail.com**
 
-- ⚡ Fun fact **I love martial arts**
+- ⚡ Fun fact **I love coding and enjoy solving algorithmic problems **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suleman-baloch-79ba09216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suleman-baloch-79ba09216/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suleman2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suleman-baloch-79ba09216/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sulemanbaloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sulemanbaloch" height="30" width="40" /></a>
 </p>
 
